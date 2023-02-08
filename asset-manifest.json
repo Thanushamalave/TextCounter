@@ -1,13 +1,13 @@
 {
-  "main.css": "/TextCounter/static/css/main.f5dca999.chunk.css",
-  "main.js": "/TextCounter/static/js/main.deac090f.chunk.js",
-  "main.js.map": "/TextCounter/static/js/main.deac090f.chunk.js.map",
-  "static/js/1.3b82f529.chunk.js": "/TextCounter/static/js/1.3b82f529.chunk.js",
-  "static/js/1.3b82f529.chunk.js.map": "/TextCounter/static/js/1.3b82f529.chunk.js.map",
+  "main.css": "/TextCounter/static/css/main.728faa44.chunk.css",
+  "main.js": "/TextCounter/static/js/main.15da1df8.chunk.js",
+  "main.js.map": "/TextCounter/static/js/main.15da1df8.chunk.js.map",
+  "static/js/1.d3ba6828.chunk.js": "/TextCounter/static/js/1.d3ba6828.chunk.js",
+  "static/js/1.d3ba6828.chunk.js.map": "/TextCounter/static/js/1.d3ba6828.chunk.js.map",
   "runtime~main.js": "/TextCounter/static/js/runtime~main.33655e9d.js",
   "runtime~main.js.map": "/TextCounter/static/js/runtime~main.33655e9d.js.map",
-  "static/css/main.f5dca999.chunk.css.map": "/TextCounter/static/css/main.f5dca999.chunk.css.map",
+  "static/css/main.728faa44.chunk.css.map": "/TextCounter/static/css/main.728faa44.chunk.css.map",
   "index.html": "/TextCounter/index.html",
-  "precache-manifest.f4b6491cdd14c94a254367c51934b728.js": "/TextCounter/precache-manifest.f4b6491cdd14c94a254367c51934b728.js",
+  "precache-manifest.f6ce959426e90606c0409c112e828fda.js": "/TextCounter/precache-manifest.f6ce959426e90606c0409c112e828fda.js",
   "service-worker.js": "/TextCounter/service-worker.js"
 }
