@@ -1,0 +1,29 @@
+
+.Navbar1 .Nav1 .Title{
+  font-size: 20px;
+  text-decoration: none;
+  color: #333;
+  padding: 10px;
+}
+.Navbar1 .Nav1 .Title:hover{
+  background-color: rgb(48, 48, 48);
+  color: #fff;
+}
+.Navbar1 .Nav2 {
+  display: flex;
+  position: absolute;
+  right: 20px;
+  padding: 10px;
+}
+.Navbar1 .Nav2 .search{
+  width: 200px;
+  border-radius: 5px;
+}
+.Navbar1 .Nav2 .btn{
+  /* background-color: rgb(139, 139, 139); */
+  color: aliceblue;
+}
+.Navbar1 .Nav2 .btn:hover{
+  background-color: rgb(48, 48, 48);
+  color: #fff;
+}
